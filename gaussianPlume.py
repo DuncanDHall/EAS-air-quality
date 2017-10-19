@@ -72,7 +72,7 @@ class stabilityClass:
             Jz = 1.1737
             Kz = -0.0316
 
-        elif letter_ == 'E':
+        elif letter == 'E':
             Iy = -2.754 
             Jy = 1.0106
             Ky = -0.0064
